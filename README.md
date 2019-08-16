@@ -1,2 +1,2 @@
 # aws-cli-container
-Amazon Linux 2 container with awscli installed
+Latest Amazon Linux container with awscli installed
